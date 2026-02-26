@@ -92,3 +92,5 @@ docker run --name evaldb -e POSTGRES_PASSWORD=p455word -e POSTGRES_USER=postgres
 - `providers.py`: API wrappers for `AsyncOpenAI`, `AsyncAnthropic`, `Groq`, and `Google Gemini`.
 - `db.py`: Async database setup and queries using `asyncpg`.
 - `frontend/`: A React 18 single page application styled with custom CSS variables.
+##
+Created with ❤️ by [Hounderd](https://github.com/Hounderd).
