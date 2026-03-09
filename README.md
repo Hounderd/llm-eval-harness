@@ -2,6 +2,8 @@
 
 A modern, fast, and extensible evaluation harness for Large Language Models (LLMs). It allows you to run prompts against multiple LLM providers (OpenAI, Anthropic, Google Gemini, Groq), score the responses using a judge model (scoring Correctness, Coherence, and Safety), and view the results in a beautiful React dashboard.
 
+![LLM Eval Harness screenshot](https://download.nodd.dev/llm-eval-harness-screenshot.png)
+
 ## Features
 
 - **Multi-Provider Support**: Built-in support for OpenAI, Anthropic, Google Gemini, and Groq.
